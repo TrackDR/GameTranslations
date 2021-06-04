@@ -16,7 +16,7 @@ http://www.jeremydjacksonphd.com/category/japanese/
 
 https://www.lexilogos.com/keyboard/hiragana.htm
 
-Lessons 1-5 of My Japanese Coach DS are at tiktok.com/@djjer321
+Lessons 1-5 of My Japanese Coach DS are at www.tiktok.com/@djjer321
 
 May want to look at http://emakimono.blogspot.com/p/lessons.html to help with My Japanese Coach DS
 
