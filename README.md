@@ -13,5 +13,6 @@ Yossy's Story Super Famicom:
 
 
 http://www.jeremydjacksonphd.com/category/japanese/
+
 https://www.lexilogos.com/keyboard/hiragana.htm
 
