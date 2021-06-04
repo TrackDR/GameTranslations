@@ -1,4 +1,4 @@
-# GameTranslations
+# Game Translations
 
 Pokemon Green #1 Video here: Based on Playthrough at https://www.youtube.com/watch?v=2jwbcETtpEQ
 
