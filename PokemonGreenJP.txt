@@ -21,8 +21,8 @@
 ジョン (John)
 では はじめに きみの なまえを おしえて もらあう (First of all, let me know your name)
 1:28 あなたのなまえは？ (Your name is?)
-かな にゅうりょく
-カナ にゅうりょく
+かな にゅうりょく (hirgana input)
+カナ にゅうりょく (Katakana input)
 1:58 ふむ。。。
 あか と いうんだな！
 2:02 こいつは わたしの まご
